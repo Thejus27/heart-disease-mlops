@@ -1,0 +1,8 @@
+.config/
+__pycache__/
+*.pyc
+.pytest_cache/
+sample_data/
+mlflow.db
+mlruns/
+mlflow_artifacts/
