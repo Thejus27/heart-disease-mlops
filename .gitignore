@@ -6,3 +6,4 @@ sample_data/
 mlflow.db
 mlruns/
 mlflow_artifacts/
+.venv/
