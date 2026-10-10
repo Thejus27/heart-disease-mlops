@@ -7,3 +7,5 @@ joblib
 ucimlrepo
 mlflow
 pytest
+fastapi
+uvicorn
